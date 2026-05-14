@@ -56,8 +56,48 @@ accelerator.
 
 ---
 
-#### 🧰 Case360 Toolkit
-*(coming soon)*
+#### 🧰 Case360 Toolkit for PSO
+*Global 360 / OpenText · 2003–2015 · Sole Architect & Developer*
+
+*Source: proprietary*
+
+Two complementary tools built independently during 12 years as a Principal Consultant
+delivering Case360 BPM/ECM solutions for enterprise clients.
+
+**PSO Toolkit — Java Developer Library**
+
+`Java` `J2EE` `EJB` `JNDI` `JDBC` `JSP` `Case360`
+
+A reusable Java library abstracting the complexity of Case360's EJB interface into a
+clean, consistent developer API. Covered all major Case360 subsystems:
+
+- Singleton EJB facade (`PsoEJBs`) eliminating redundant JNDI lookups across all
+  Case360 services — casefolder, filestore, form data, workflow, FMS schema/query,
+  security, ACL, user management, repositories, and web services
+- Data object model wrapping Case360's field/row structures for type-safe access
+- Bulk data loaders with CSV parsing and type coercion for casefolder, filestore,
+  form data, FMS, and user records
+- PDF generation, Word merge, and thumbnail utilities
+- JSP tag library for field value list rendering
+- LDAP integration utilities
+
+Used by Global 360/OpenText PSO consultants and clients to significantly reduce
+delivery timelines and enable less experienced consultants to implement complex
+integrations.
+
+**System Review PSO — Case360 Health Assessment Offering**
+
+`Case360` `Java` `SQL` `LDAP`
+
+A complete, productized professional services engagement for auditing existing
+Case360 implementations — independently designed end-to-end including:
+
+- Sales and marketing materials (fact sheet, overview deck)
+- Statement of Work template
+- Consultant delivery checklist
+- A live Case360 application to drive and record the assessment
+- Deliverable templates: Findings & Recommendations, Security Analysis,
+  Query Analysis
 
 ---
 
