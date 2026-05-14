@@ -1,14 +1,19 @@
 ## Mark Knaus · Senior Angular Developer
 
-Senior Angular Developer and Frontend Engineer with extensive experience building
-production-grade Angular applications for enterprise clients across financial services,
-government, healthcare, and insurance. Specialized in TypeScript, RxJS, and the Alfresco
-Development Framework (ADF), with full-stack depth in Java Spring and BPM/ECM platform
+I started my career as a **C++ software engineer** building commercial software in R&D
+at Eastman Software (Kodak), then spent 20+ years as a Principal Consultant in
+professional services — designing and delivering production solutions across financial
+services, government, healthcare, and insurance. That career arc built an engineering
+foundation that combines product development discipline with the adaptability that
+comes from onboarding to a new client's stack on virtually every engagement.
+
+Specialized in **TypeScript, Angular, and RxJS**, with deep expertise in the Alfresco
+Development Framework (ADF) and full-stack depth in Java Spring and BPM/ECM platform
 integration.
 
-- 🔭 Currently focused on finding my next **Senior Angular / Frontend Developer** role after 8 years building enterprise applications at ClearCadence
-- 💬 Ask me about **Angular architecture, ADF/Alfresco integration, config-driven UI design, or enterprise BPM/ECM**
-- 📫 Reach me at **mark@markknaus.com**
+- 🔭 Currently focused on finding my next **Senior Angular / Frontend Developer** role
+- 💬 Ask me about **Angular architecture, ADF/Alfresco integration, or config-driven UI design**
+- 📫 mark@markknaus.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-markknaus-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markknaus/)
 
@@ -16,7 +21,8 @@ integration.
 
 ### 🏢 Clients & Industries
 
-My career has been in professional services — designing and delivering production solutions for organizations with real complexity and real users. Clients have included:
+Twenty-plus years in professional services means a new client and often a new
+technology stack on every engagement. Clients have included:
 
 Wells Fargo · Manulife · NASA · Fannie Mae · AIG · CoreLogic · Intuit · Mercedes-Benz Financial · Northwestern Mutual · BCBS Minnesota · HealthMarkets (United Health) · Screen Actors Guild-AFTRA · LA County Sheriff's Department · LA County District Attorney · LA County Public Defender · Central Valley AG · RGA Reinsurance · ATB Financial · Pinellas County Court Clerk · Iowa Workforce Development
 
