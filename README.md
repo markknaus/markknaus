@@ -6,21 +6,19 @@ government, healthcare, and insurance. Specialized in TypeScript, RxJS, and the 
 Development Framework (ADF), with full-stack depth in Java Spring and BPM/ECM platform
 integration.
 
-- 🔭 Currently working on **ClearView** — an enterprise Angular platform for content and workflow management
+- 🔭 Currently focused on finding my next **Senior Angular / Frontend Developer** role after 8 years building enterprise applications at ClearCadence
 - 💬 Ask me about **Angular architecture, ADF/Alfresco integration, config-driven UI design, or enterprise BPM/ECM**
-- 👯 Open to **Senior Angular / Frontend Developer** roles — full-time W2
 - 📫 Reach me at **mark@markknaus.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markknaus-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markknaus/)
 
 ---
 
 ### 🏢 Clients & Industries
 
-My career has been in professional services — designing and delivering production solutions
-for organizations with real complexity and real users. Clients have included:
+My career has been in professional services — designing and delivering production solutions for organizations with real complexity and real users. Clients have included:
 
-**Wells Fargo · Manulife · NASA · Fannie Mae · AIG · CoreLogic**  
-**Intuit · Mercedes-Benz Financial · Northwestern Mutual · BCBS Minnesota**  
-**HealthMarkets (United Health) · Screen Actors Guild-AFTRA**
+Wells Fargo · Manulife · NASA · Fannie Mae · AIG · CoreLogic · Intuit · Mercedes-Benz Financial · Northwestern Mutual · BCBS Minnesota · HealthMarkets (United Health) · Screen Actors Guild-AFTRA · LA County Sheriff's Department · LA County District Attorney · LA County Public Defender · Central Valley AG · RGA Reinsurance · ATB Financial · Pinellas County Court Clerk · Iowa Workforce Development
 
 ---
 
@@ -43,14 +41,14 @@ and primary developer, adopted by multiple enterprise clients as a flagship solu
 accelerator.
 
 **`Angular 17` `TypeScript` `ADF 7` `Angular Material MDC` `RxJS` `OAuth 2.0`**  
-**`Java Spring` `GraphQL` `Elasticsearch` `Keycloak` `Docker` `GitHub Actions`**
+**`APS/ACS REST APIs` `Chart.js` `PDF.js` `Docker` `NGINX` `GitHub Actions`**
 
 **Highlights:**
 - Evolved the platform from **Angular 6 / ADF 2 → Angular 17 / ADF 7** over six years through incremental upgrades without a rewrite
 - **Config-driven architecture** — application layouts, search forms, dashboards, and role profiles all driven by JSON configuration; no code changes between client deployments
 - **Interactive analytics dashboards** — Chart.js doughnut and bar charts with drill-down from chart elements to filtered, paginated task lists; filter state persistence; configurable embedding of external dashboards (Power BI, Kibana)
-- **Advanced search** — faceted ACS content search via Apache Solr, APS task search via GraphQL, and configurable custom search forms per application
-- **Full-stack integration** — Java Spring REST APIs connecting APS/ACS, Elasticsearch, Keycloak, DocuSign, Adobe Sign, and third-party systems
+- **Advanced search** — configurable faceted content and process/task search via custom APS/ACS REST APIs
+- **Integrated document viewer** — PDF, Office, and image rendering via PDF.js and ACS rendering APIs
 - **OAuth 2.0 + session management** — idle timeout, token monitoring, configurable auto-logout
 - Scaled to support **200+ APS process applications** for Wells Fargo
 
@@ -80,9 +78,11 @@ accelerator.
 **Primary**  
 `Angular` `TypeScript` `RxJS` `Angular Material` `HTML5` `CSS3` `REST APIs` `Git`
 
+**Platform & Integration**  
+`Alfresco ACS/APS/ADF` `Keycloak` `Elasticsearch` `Kibana` `ActiveMQ` `PostgreSQL`
+
 **Full-stack when the work demands it**  
-`Java` `Spring Framework` `GraphQL` `Alfresco ACS/APS/ADF` `Apache Solr`
-`Elasticsearch` `Keycloak` `Docker`
+`Java` `Spring Framework` `Docker` `NGINX`
 
 **🤖 AI-Assisted Development**  
 `Claude Code` `GitHub Copilot`
@@ -91,4 +91,5 @@ accelerator.
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/markknaus/) · mark@markknaus.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markknaus-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/markknaus/)
+· mark@markknaus.com
