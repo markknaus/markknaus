@@ -66,14 +66,9 @@ accelerator.
 #### 🧰 Case360 Toolkit for PSO
 *Global 360 / OpenText · 2003–2015 · Sole Architect & Developer*
 
+`Java` `J2EE` `EJB` `JNDI` `JDBC` `JSP` `Case360` `SQL` `LDAP`
+
 *Source: proprietary*
-
-Two complementary tools built independently during 12 years delivering Case360
-BPM/ECM solutions for enterprise clients.
-
-**PSO Toolkit — Java Developer Library**
-
-`Java` `J2EE` `EJB` `JNDI` `JDBC` `JSP` `Case360`
 
 A reusable Java library abstracting the complexity of Case360's EJB interface into a
 clean, consistent developer API covering all major Case360 subsystems:
@@ -83,24 +78,16 @@ clean, consistent developer API covering all major Case360 subsystems:
 - Bulk data loaders with CSV parsing and type coercion for casefolder, filestore, form data, FMS, and user records
 - PDF generation, Word merge, thumbnail, and LDAP integration utilities
 - JSP tag library for field value list rendering
+- **Case360 System Review application** — post-implementation assessment tooling
+  provided to clients for evaluating the health of their Case360 installations;
+  covered SQL query anti-pattern analysis (SELECT * usage, missing bind parameters,
+  ORDER BY misuse, preprocessor and DBTABLEPREFIX compliance) and ACL coverage
+  auditing (identifying Case360 objects — templates, tables, queries, menus, scripts,
+  roles, and fields — lacking Access Control List definitions)
 
 Used by Global 360/OpenText PSO consultants and clients to significantly reduce
 delivery timelines and enable less experienced consultants to implement complex
 integrations.
-
-**System Review PSO — Case360 Health Assessment Offering**
-
-`Case360` `Java` `SQL` `LDAP`
-
-A complete, productized professional services engagement for auditing existing
-Case360 implementations — independently designed end-to-end:
-
-- Sales and marketing materials, Statement of Work template, consultant delivery checklist
-- A live Case360 application to drive and record the assessment
-- Deliverable templates: Findings & Recommendations, Security Analysis, Query Analysis
-
-Delivered for clients including RGA Reinsurance. The methodology was later adapted
-and carried forward to ClearCadence.
 
 ---
 
@@ -108,11 +95,11 @@ and carried forward to ClearCadence.
 
 | | |
 |---|---|
-| **ClearCadence, LLC** · Principal Consultant, Professional Services | Apr 2017 – Present |
+| **ClearCadence, LLC** · Principal Consultant - Senior Angular Developer | Apr 2017 – Present |
 | **Screen Actors Guild-AFTRA** · Full Stack Engineer (Contract) | Oct 2015 – Dec 2016 |
-| **OpenText** · Senior Consultant, Professional Services | 2011 – Jul 2015 |
-| **Global 360** · Principal Consultant, Professional Services | Jul 2003 – 2011 |
-| **Eastman Software (Kodak)** · Senior Software Engineer, R&D | Aug 1998 – Jan 2003 |
+| **OpenText (via acquisition of Global 360)** · Senior Consultant, Professional Services | Jul 2011 – Jul 2015 |
+| **Global 360** · Principal Consultant, Professional Services | Jan 2003 – Jul 2011 |
+| **Eastman Software (A Kodak Subsidiary)** · Senior Software Engineer, R&D | Aug 1996 – Jul 2001 |
 
 🎓 BS Computer Science · Pace University
 
