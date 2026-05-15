@@ -4,7 +4,9 @@ I started my career as a **C++ software engineer** building commercial products 
 at Eastman Software (Kodak), then spent 12 years in professional services consulting
 at Global 360 and OpenText — architecting Java EE solutions for enterprise BPM and
 content management clients across financial services, government, healthcare, and
-insurance. At ClearCadence in 2017 the work shifted to Angular — and it clicked.
+insurance.
+
+At ClearCadence in 2017 the work shifted to Angular — and it clicked.
 Frontend engineering engages a broader set of skills: not just building the solution,
 but designing the experience around the people using it.
 
@@ -22,10 +24,19 @@ applications for enterprise clients across 30+ engagements.
 ### 🏢 Clients & Industries
 
 Twenty-plus years in professional services means a new client and often a new
-technology stack on every engagement — 30+ enterprise clients delivered across
-financial services, government, healthcare, insurance, and retail:
+technology stack on every engagement — 30+ enterprise clients across:
 
-Wells Fargo · NASA · Fannie Mae · AIG · Social Security Administration · Intuit · Target · Manulife · Chase Paymentech · Mercedes-Benz Financial · Northwestern Mutual · BCBS Minnesota · CoreLogic · HealthMarkets (United Health) · Screen Actors Guild-AFTRA · LA County Sheriff's Department · LA County District Attorney · LA County Public Defender · National Government Services · RGA Reinsurance · ATB Financial · Central Valley AG · Pinellas County Court Clerk · Iowa Workforce Development
+**Financial Services & Banking:**
+Wells Fargo · AIG · Fannie Mae · Chase Paymentech · Intuit · Mercedes-Benz Financial · Northwestern Mutual · Manulife · CoreLogic · RGA Reinsurance · ATB Financial
+
+**Government & Public Sector:**
+NASA · Social Security Administration · LA County Sheriff's Department · LA County District Attorney · LA County Public Defender · National Government Services · Pinellas County Court Clerk · Iowa Workforce Development
+
+**Healthcare & Insurance:**
+BCBS Minnesota · HealthMarkets (United Health)
+
+**Retail, Entertainment & Agriculture:**
+Target · Screen Actors Guild-AFTRA · Central Valley AG
 
 ---
 
@@ -78,12 +89,7 @@ clean, consistent developer API covering all major Case360 subsystems:
 - Bulk data loaders with CSV parsing and type coercion for casefolder, filestore, form data, FMS, and user records
 - PDF generation, Word merge, thumbnail, and LDAP integration utilities
 - JSP tag library for field value list rendering
-- **Case360 System Review application** — post-implementation assessment tooling
-  provided to clients for evaluating the health of their Case360 installations;
-  covered SQL query anti-pattern analysis (SELECT * usage, missing bind parameters,
-  ORDER BY misuse, preprocessor and DBTABLEPREFIX compliance) and ACL coverage
-  auditing (identifying Case360 objects — templates, tables, queries, menus, scripts,
-  roles, and fields — lacking Access Control List definitions)
+- **Case360 System Review application** — post-implementation assessment tooling provided to clients for evaluating the health of their Case360 installations; covered SQL query anti-pattern analysis (SELECT * usage, missing bind parameters, ORDER BY misuse, preprocessor and DBTABLEPREFIX compliance) and ACL coverage auditing (identifying Case360 objects — templates, tables, queries, menus, scripts, roles, and fields — lacking Access Control List definitions)
 
 Used by Global 360/OpenText PSO consultants and clients to significantly reduce
 delivery timelines and enable less experienced consultants to implement complex
@@ -95,11 +101,10 @@ integrations.
 
 | | |
 |---|---|
-| **ClearCadence, LLC** · Principal Consultant - Senior Angular Developer | Apr 2017 – Present |
-| **Screen Actors Guild-AFTRA** · Full Stack Engineer (Contract) | Oct 2015 – Dec 2016 |
-| **OpenText (via acquisition of Global 360)** · Senior Consultant, Professional Services | Jul 2011 – Jul 2015 |
-| **Global 360** · Principal Consultant, Professional Services | Jan 2003 – Jul 2011 |
-| **Eastman Software (A Kodak Subsidiary)** · Senior Software Engineer, R&D | Aug 1996 – Jul 2001 |
+| **ClearCadence, LLC** · Principal Consultant - Senior Angular Developer, Professional Services | Apr 2017 – Present |
+| **Screen Actors Guild - Producers Pension & Health Plans** · Full Stack Engineer (Contract) | Oct 2015 – Dec 2016 |
+| **OpenText (via acquisition of Global 360)** · Senior Consultant, Professional Services | Jul 2001 – Jul 2015 |
+| **Eastman Software (Kodak)** · Senior Software Engineer, R&D | Aug 1996 – Jul 2001 |
 
 🎓 BS Computer Science · Pace University
 
